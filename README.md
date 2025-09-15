@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: code is to cruel then i thought
 -->
 My Self Thanuja 
+
+"Code is not just what we write — it's how we think, solve, and build for tomorrow."
